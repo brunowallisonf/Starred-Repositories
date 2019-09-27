@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bruno/Documentos/bootcamp/modulo06/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/9898429d3d3ddc3f9e44ccfe0833f933/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
