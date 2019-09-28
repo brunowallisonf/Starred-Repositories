@@ -39,5 +39,4 @@
 
 ## Run
 
-yarn &&
-yarn start
+react-native run-android
